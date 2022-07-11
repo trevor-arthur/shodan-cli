@@ -2,3 +2,5 @@ github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
 github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 github.com/trevor-arthur/shodan v0.0.0-20220711034819-dc931a564f37 h1:mQtBYfkm1+6m8ks62Gc6TZHguAtLJQL5kyfG6QnhmMI=
 github.com/trevor-arthur/shodan v0.0.0-20220711034819-dc931a564f37/go.mod h1:evT8QnAuY/N7BefcLzSTIaw7EUkjTNemQnTcQZ/iB7M=
+github.com/trevor-arthur/shodan v0.0.0-20220711041309-4f68f68cde1b h1:Ul7/B9h3ahZ7FRzXCoKorXW5UUoq7F3yAPtFmm65BJw=
+github.com/trevor-arthur/shodan v0.0.0-20220711041309-4f68f68cde1b/go.mod h1:evT8QnAuY/N7BefcLzSTIaw7EUkjTNemQnTcQZ/iB7M=
