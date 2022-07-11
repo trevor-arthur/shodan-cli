@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"shodan/shodan"
 
 	"github.com/joho/godotenv"
+	"github.com/trevor-arthur/shodan/shodan"
 )
 
 func main() {
