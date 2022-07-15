@@ -3,7 +3,7 @@
 
 ### How to Use:
 
-	git clone https://github.com/trevor-arthur/shodan
+	git clone https://github.com/trevor-arthur/shodan-cli
 
 	echo "<your_shodan_api_key>" > ./shodan-cli/cmd/shodan/.env
 
